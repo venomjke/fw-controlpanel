@@ -1,0 +1,48 @@
+.categoryDescription{
+	width:100%;
+}
+.categoryDescription td{
+	vertical-align: top
+}
+.categoryDescription input[type="text"],.categoryDescription textarea{
+	width:300px;
+	font-size:20px;
+}
+.categoryDescription input[type="text"]{
+	height:35px;
+}
+.categoryDescription textarea{
+	min-height: 118px
+}
+.categoryDescription label{
+	font-size:20px;
+}
+body{
+	padding-top:60px;
+}
+.well{font-size:16px;}
+.content input{height:30px;}
+h3 .icon-circle-arrow-down{margin-top:20px;}
+h3 .icon-circle-arrow-up{margin-top:20px;}
+
+.content .products {width:100%; text-align: center;}
+.content .products img{ width:120px; height:80px;}
+.content .products .productNumber{width:5%;}
+.content .products .productImg{width:20%;}
+.content .products .productPrice{width:15%;}
+.content .products .productTitle{width:30%;text-align: left;}
+.content .products .productBtns{padding-top:15px;}
+.content .products .item-content{width:45%;text-align: left;}
+.content .pagination {text-align:left;}
+
+.inner-content .resource{width:100%;}
+.inner-content .resource td{vertical-align: top;}
+.inner-content .resource label{font-size:20px; display:inline-block; margin:15px 0px;}
+.inner-content .resource input[class*="input-xlarge"]{width:450px;}
+.inner-content .resource input[class*="input-medium"],.inner-content .resource select[class*="input-medium"]{width:200px;}
+
+.inner-content img{width:230px;margin-bottom:10px;}
+.inner-content .item{float:left;margin-left:10px;}
+.inner-content .resource-item{margin-right: 50px;float: left;}
+.inner-content .public{float: right;margin-right: 100px;}
+.inner-content .description{clear: both;width: 100%;}
