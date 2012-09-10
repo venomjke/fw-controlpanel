@@ -33,7 +33,8 @@ h3 .icon-circle-arrow-up{margin-top:20px;}
 .content .products .productBtns{padding-top:15px;}
 .content .products .item-content{width:45%;text-align: left;}
 .content .pagination {text-align:left;}
-
+ 	
+.content .products img{ height:80px;}
 .inner-content .resource{width:100%;}
 .inner-content .resource td{vertical-align: top;}
 .inner-content .resource label{font-size:20px; display:inline-block; margin:15px 0px;}
